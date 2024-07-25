@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luciano Viana
 
 - 💻 Hoje trabalho com Suporte de Sistemas
-- 🌱 Estudando Desenvolvimento Java Web full stack
+- 🌱 Estudando Desenvolvimento Java Web Full Stack
 
 
 <div style="display: inline_block"><br>
